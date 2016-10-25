@@ -1,0 +1,57 @@
+button {
+  background-color: #0099ff;
+  margin-left: 85%;
+  margin-top: -1.9%;
+  color: white;
+  border-radius: 5px;
+}
+
+button.monthbutton {
+  background-color: #A9A9A9;
+  margin-left: 80%;
+  margin-top: -1.9%;
+  color: white;
+  border-radius: 5px;
+}
+
+button.weekbutton {
+  background-color: white;
+  margin-left: 76.7%;
+  margin-top: -1.9%;
+  color: black;
+  border-radius: 5px;
+}
+
+button.datebutton {
+  background-color: white;
+  margin-left: 85%;
+  margin-top: -1.9%;
+  color: black;
+  border-radius: 5px;
+}
+
+button.arrow {
+  background-color: white;
+  margin-left: 97%;
+  margin-top: -1.9%;
+  color: black;
+  border-radius: 5px;
+}
+
+p.upanddown {
+  margin-left: 13%;
+  margin-top: -3%;
+  background:url(data:image/gif;base64,R0lGODlhCwALAJEAAAAAAP///xUVFf///yH5BAEAAAMALAAAAAALAAsAAAIUnC2nKLnT4or00PvyrQwrPzUZshQAOw==) no-repeat center left;
+}
+span.green {
+  color: green;
+  font-size: 15px;
+}
+span.red {
+  color: red;
+  font-size: 15px;
+}
+table.streamstable {
+  width: 50%;
+  text-align: left;
+}
